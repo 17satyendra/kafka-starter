@@ -33,7 +33,7 @@ public class TwitterProducer {
 	private String consumerSecret = "ney9c6LYLk3tFijh0uMyEnlWiBeP2VeclLHV9BhDlvkJdgLSWF";
 	private String token = "816084111987195906-ZU7VcDSVMieV52X9ZYL9a2Mh5JLGQPQ";
 	private String secret = "TIFZXnO8DlOaf8SGPeNJV9UIfu0tumjzoWuAvdfhe9UHY";
-	List<String> terms = Lists.newArrayList("kafka");
+	List<String> terms = Lists.newArrayList("kafka", "java", "ipl");
 	public TwitterProducer() {}
 	
 	public static void main(String[] args) {
